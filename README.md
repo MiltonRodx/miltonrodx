@@ -8,7 +8,7 @@
 ## What i'm up to
 
 - 🔭 I’m currently learning Linux systems, networking and more.
-- 🌱 I’m currently working with Web.
+- 🌱 I’m currently working with Web development.
 - 💬 Creating content in [my blog](https://miltonrodx.com).
 
 <br />
