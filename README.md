@@ -1,14 +1,13 @@
 
 # Hola, mi nombre es Milton 👋
 ## Estudiante de Sistemas
-![My Profile Picture](https://avatars.githubusercontent.com/u/157833867?v=4)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Ibm5100_%282297950254%29.jpg" alt="IBM 5100" width="450" height="360">
 
 <br />
 
 ## What i'm up to
-
-- 🔭 I’m currently learning Linux systems, networking and more.
-- 🌱 I’m currently working with Web development.
+- 🔭 I’m currently learning Linux systems, networking, web development and more.
+<!-- 🌱 I’m currently working with Web development. -->
 - 💬 Creating content in [my blog](https://miltonrodx.com).
 
 <br />
