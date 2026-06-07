@@ -8,7 +8,7 @@ Into scalable systems, clean code, and projects that actually ship.
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,postgresql,mysql,python,debian,ubuntu,bash,docker,kubernetes,kali,linux,vscode&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,postgresql,mysql,python,debian,ubuntu,bash,docker,kubernetes,kali,linux,vscode&perline=16)](https://skillicons.dev)
 
 ---
 
