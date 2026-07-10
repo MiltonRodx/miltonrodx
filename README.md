@@ -1,14 +1,14 @@
 # MiltonRodx
 
-Backend developer and Linux enthusiast. CS student at UNNE (*Licenciatura en Sistemas de Información*), Argentina.
+Trainee Java Backend Developer and Linux enthusiast. CS student at UNNE (*Licenciatura en Sistemas de Información*), Argentina.
 
-Into scalable systems, clean code, and projects that actually ship.
+Into scalable systems and clean code.
 
 ---
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,postgresql,mysql,python,debian,ubuntu,bash,docker,kubernetes,kali,linux,vscode&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,bash,mysql,postgresql,debian,ubuntu,docker,kali,linux,vscode&perline=14)](https://skillicons.dev)
 
 ---
 
