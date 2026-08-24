@@ -1,8 +1,6 @@
 # MiltonRodx
 
-Trainee Java Backend Developer and Linux enthusiast. CS student at UNNE (*Licenciatura en Sistemas de Información*), Argentina.
-
-Into scalable systems and clean code.
+Trainee Backend Developer and Linux enthusiast. CS student at UNNE (*Licenciatura en Sistemas de Información*), Argentina.
 
 ---
 
