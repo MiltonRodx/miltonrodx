@@ -6,7 +6,7 @@ Trainee Backend Developer and Linux enthusiast. CS student at UNNE (*Licenciatur
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,bash,mysql,postgresql,debian,ubuntu,docker,kali,linux,vscode&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,fastapi,bash,mysql,postgresql,debian,ubuntu,docker,linux&perline=14)](https://skillicons.dev)
 
 ---
 
